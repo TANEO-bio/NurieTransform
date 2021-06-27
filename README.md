@@ -20,3 +20,4 @@ result = model.fit(image)
 ```
 
 # List of filters
+[AverageFilter](https://github.com/TANEO-bio/NurieTransform/blob/main/nurie/filters/AverageFilter.py)
